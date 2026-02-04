@@ -1,4 +1,4 @@
-# Skin Cancer Detection and Classification using Enhanced Harris Hawk Deep Learning
+# Skin Cancer Detection and Classification using Enhanced Harris Hawk Deep Learning Technique
 ## 🩺 Overview
 Early detection of skin cancer is critical for improving survival rates and reducing healthcare costs. This project implements an automated AI-powered diagnostic system that detects and classifies eight different types of skin lesions from dermoscopic images.
 
