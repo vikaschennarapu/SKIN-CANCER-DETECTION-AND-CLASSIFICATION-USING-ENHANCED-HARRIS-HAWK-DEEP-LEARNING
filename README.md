@@ -55,3 +55,24 @@ Feature Extraction: A deep CNN architecture automatically extracts over 1,000 hi
 EHHO Optimization: A nature-inspired metaheuristic algorithm based on the cooperative hunting behavior of Harris hawks is used to find the global optimum for the model's hyperparameters.
 
 Classification: The optimized model predicts the lesion type with a confidence score.
+
+## 📈 Results
+The EHHO-optimized model outperformed standard models by approximately 5%, effectively reducing diagnostic errors from the industry standard of 15–30% to under 4%.
+
+## 🔮 Future Enhancements
+Integration with mobile and IoT devices for real-time diagnosis.
+
+Extension of HHO to optimize the entire network architecture (AutoML).
+
+Implementation of Explainable AI (XAI) for higher transparency in clinical settings.
+
+## 👥 Contributors
+P. Swetha
+
+C. Vikas
+
+B. Sai Deekshitha
+
+Aatish Kumar
+
+Guidance: Ms. K G Mohanavalli (Assistant Professor, Dept. of CSE)
