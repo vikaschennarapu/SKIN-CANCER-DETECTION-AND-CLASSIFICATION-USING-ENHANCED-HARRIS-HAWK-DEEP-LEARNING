@@ -15,6 +15,10 @@ Efficiency: Reduces analysis time from the typical 30 minutes (manual) to under 
 
 Streamlit Web App: A user-friendly interface for real-time image upload and classification.
 
+## Project Presentation
+
+- <a href="https://github.com/vikaschennarapu/SKIN-CANCER-DETECTION-AND-CLASSIFICATION-USING-ENHANCED-HARRIS-HAWK-DEEP-LEARNING/blob/main/Presentation.pptx">Project Presentation PPT</a>
+
 ## 📊 Dataset
 The model was trained on 25,331 images from the ISIC 2019 dataset. It classifies the following categories:
 
@@ -35,6 +39,7 @@ Vascular Lesion
 Squamous Cell Carcinoma
 
 - <a href="https://www.kaggle.com/datasets/salviohexia/isic-2019-skin-lesion-images-for-classification">Dataset</a>
+
 ## 🛠️ Tech Stack
 Language: Python 3.x
 
@@ -56,6 +61,10 @@ Feature Extraction: A deep CNN architecture automatically extracts over 1,000 hi
 EHHO Optimization: A nature-inspired metaheuristic algorithm based on the cooperative hunting behavior of Harris hawks is used to find the global optimum for the model's hyperparameters.
 
 Classification: The optimized model predicts the lesion type with a confidence score.
+
+## Project Python Code
+- <a href="https://github.com/vikaschennarapu/SKIN-CANCER-DETECTION-AND-CLASSIFICATION-USING-ENHANCED-HARRIS-HAWK-DEEP-LEARNING/blob/main/skin.ipynb">Jupyter Notes</a>
+- <a href="https://github.com/vikaschennarapu/SKIN-CANCER-DETECTION-AND-CLASSIFICATION-USING-ENHANCED-HARRIS-HAWK-DEEP-LEARNING/blob/main/run.py">Jupyter Notes</a>
 
 ## 📈 Results
 The EHHO-optimized model outperformed standard models by approximately 5%, effectively reducing diagnostic errors from the industry standard of 15–30% to under 4%.
